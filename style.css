@@ -1,0 +1,34 @@
+.m{
+    display: flex;
+    margin: 30px;
+    background-color:white
+    
+}
+ul li a{
+    margin: 10px;
+}
+ul li { 
+    list-style: none;
+}
+footer{ 
+    text-align: center;
+    background-color:white
+}
+.wade{
+    background-color: black;
+}
+#un{
+    color: white;
+}
+#trois{
+    color: white;
+}
+#quatre{
+    color: white;
+}
+#sow{
+    color: white;
+}
+#cinq{
+    color:white;
+}
